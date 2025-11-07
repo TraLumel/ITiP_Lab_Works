@@ -1,0 +1,1 @@
+Исключение: CustomEmailFormatException: Ошибка: неверный формат email
